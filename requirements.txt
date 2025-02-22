@@ -3,4 +3,4 @@ pandas
 matplotlib
 opempxl
 requests
-beautifulsoup
+beautifulsoup4
